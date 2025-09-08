@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css'
 import { Routes, Route, Link } from 'react-router-dom'; // 라우터 관련 컴포넌트 임포트
-import Page1 from './Page1.jsx';
-import Page2 from './Page2.jsx';
+import Page1 from './assets/Page1.jsx';
+import Page2 from './assets/Page2.jsx';
 
 function App() {
 

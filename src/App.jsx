@@ -9,8 +9,8 @@ function App() {
   return (
     <>
       <nav>
-        <Link to="/page1">페이지 1</Link> | {" "}
-        <Link to="/page2">페이지 2</Link>
+        <Link to="/Page1">페이지 1</Link> | {" "}
+        <Link to="/Page2">페이지 2</Link>
       </nav>
       <Routes>
         <Route path="/page1" element={<Page1 />} />

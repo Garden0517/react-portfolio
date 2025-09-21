@@ -15,7 +15,7 @@ function Dday() {
 
   return (
     <div>
-      <h2>졸업작품심사까지</h2>
+      <h2>졸업작품심사까지 ⏳</h2>
       <p>{dDayString}</p>
     </div>
   );
